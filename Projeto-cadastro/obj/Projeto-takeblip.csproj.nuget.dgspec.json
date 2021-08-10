@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-dotnet-dio-feito\\projeto-takeblip\\Projeto-takeblip.csproj": {}
+    "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-cadastro-serie\\projeto-cadastro\\Projeto-takeblip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-dotnet-dio-feito\\projeto-takeblip\\Projeto-takeblip.csproj": {
+    "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-cadastro-serie\\projeto-cadastro\\Projeto-takeblip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-dotnet-dio-feito\\projeto-takeblip\\Projeto-takeblip.csproj",
+        "projectUniqueName": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-cadastro-serie\\projeto-cadastro\\Projeto-takeblip.csproj",
         "projectName": "Projeto-takeblip",
-        "projectPath": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-dotnet-dio-feito\\projeto-takeblip\\Projeto-takeblip.csproj",
+        "projectPath": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-cadastro-serie\\projeto-cadastro\\Projeto-takeblip.csproj",
         "packagesPath": "C:\\Users\\Alex Ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-dotnet-dio-feito\\projeto-takeblip\\obj\\",
+        "outputPath": "C:\\Users\\Alex Ferreira\\Documents\\MeuProjetos\\projeto-cadastro-serie\\projeto-cadastro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
